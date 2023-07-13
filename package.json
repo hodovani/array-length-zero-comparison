@@ -1,5 +1,5 @@
 {
-  "name": "array-length-zero-comparison",
+  "name": "eslint-plugin-array-length-zero-comparison",
   "version": "1.0.0",
   "description": "ESLint plugin for array-length-zero-comparison rule.",
   "main": "eslint-plugin-example.js",
