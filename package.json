@@ -1,0 +1,22 @@
+{
+  "name": "array-length-zero-comparison",
+  "version": "1.0.0",
+  "description": "ESLint plugin for array-length-zero-comparison rule.",
+  "main": "eslint-plugin-example.js",
+  "scripts": {
+    "test": "node array-length-zero-comparison.test.js"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.0.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
+}
