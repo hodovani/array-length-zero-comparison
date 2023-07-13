@@ -1,10 +1,10 @@
 {
-  "name": "eslint-plugin-array-length-zero-comparison",
+  "name": "eslint-plugin-example",
   "version": "1.0.0",
-  "description": "ESLint plugin for array-length-zero-comparison rule.",
+  "description": "ESLint plugin for enforce-foo-bar rule.",
   "main": "eslint-plugin-example.js",
   "scripts": {
-    "test": "node array-length-zero-comparison.test.js"
+    "test": "node enforce-foo-bar.test.js"
   },
   "peerDependencies": {
     "eslint": ">=8.0.0"
