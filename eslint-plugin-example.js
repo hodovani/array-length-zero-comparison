@@ -1,3 +1,3 @@
-const fooBarRule = require("./enforce-foo-bar");
-const plugin = { rules: { "enforce-foo-bar": fooBarRule } };
+const arrayLengthZeroComparison = require("./array-length-zero-comparison");
+const plugin = { rules: { "array-length-zero-comparison": arrayLengthZeroComparison } };
 module.exports = plugin;
